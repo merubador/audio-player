@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Toxic",
+    "band": "Britney Spears",
+    "url": "/tracks/track6.mp3",
+    "duration": 201
+  },
+  {
+    "name": "Sunshine Of Your Love",
+    "band": "Cream",
+    "url": "/tracks/track7.mp3",
+    "duration": 184
+  },
+  {
+    "name": "Hurt",
+    "band": "Johnny Cash",
+    "url": "/tracks/track8.mp3",
+    "duration": 219
+  },
+  {
+    "name": "Think",
+    "band": "Kaleida",
+    "url": "/tracks/track9.mp3",
+    "duration": 211
+  },
+  {
+    "name": "These Boots Are Made For Walking",
+    "band": "Nancy Sinatra",
+    "url": "/tracks/track10.mp3",
+    "duration": 160
+  }
+]
